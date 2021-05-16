@@ -1,5 +1,11 @@
+import Layout from "../components/Layout";
+
 const Blog = () => {
-  return <div>Blog Page</div>;
+  return (
+    <Layout title="Home">
+      <div>Blog Page</div>
+    </Layout>
+  );
 };
 
 export default Blog;
