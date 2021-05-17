@@ -16,6 +16,7 @@ const Blog = ({ posts }) => {
 
 export default Blog;
 
+// build時に静的なhtmlを生成する
 export async function getStaticProps() {
   const posts = await getAllPostsData();
   return {
