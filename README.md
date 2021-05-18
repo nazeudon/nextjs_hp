@@ -36,3 +36,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ## Author
 
 nazeudon
+
+## Deployed Url
+
+https://nextjs-hp-lime.vercel.app/
